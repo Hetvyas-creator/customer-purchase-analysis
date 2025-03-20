@@ -1,0 +1,736 @@
+Date,Description,Amount,Category
+2023-03-20,Medical Bill,-475.6,Medical
+2023-03-20,Phone Bill,-390.95,Utilities
+2023-03-20,Freelance Payment,1891.67,Income
+2023-03-21,Phone Bill,-232.33,Utilities
+2023-03-21,Uber Ride,-75.72,Travel
+2023-03-21,Netflix Subscription,-15.19,Subscription
+2023-03-22,Spotify Subscription,-469.58,Subscription
+2023-03-22,Starbucks Coffee,-95.0,Food & Drinks
+2023-03-23,Salary Credit,1608.48,Income
+2023-03-24,Spotify Subscription,-16.42,Subscription
+2023-03-24,Amazon Shopping,-28.1,Shopping
+2023-03-25,Online Course Payment,-311.1,Education
+2023-03-25,Spotify Subscription,-259.55,Subscription
+2023-03-25,Netflix Subscription,-430.67,Subscription
+2023-03-26,Dinner at Restaurant,-37.2,Food & Drinks
+2023-03-26,Uber Ride,-471.39,Travel
+2023-03-26,Gas Station,-405.16,Transportation
+2023-03-27,Starbucks Coffee,-343.7,Food & Drinks
+2023-03-28,Freelance Payment,2219.99,Income
+2023-03-28,Electricity Bill,-22.02,Utilities
+2023-03-28,Gas Station,-198.58,Transportation
+2023-03-29,Electricity Bill,-378.9,Utilities
+2023-03-29,Gym Membership,-107.93,Fitness
+2023-03-30,Car Repair,-388.69,Transportation
+2023-03-30,Starbucks Coffee,-200.6,Food & Drinks
+2023-03-31,Movie Ticket,-166.64,Entertainment
+2023-03-31,Gas Station,-102.01,Transportation
+2023-04-01,Electricity Bill,-423.04,Utilities
+2023-04-02,Car Repair,-272.15,Transportation
+2023-04-03,Flight Ticket,-74.76,Travel
+2023-04-03,Online Course Payment,-86.81,Education
+2023-04-04,Freelance Payment,1846.8,Income
+2023-04-05,Spotify Subscription,-150.28,Subscription
+2023-04-06,Phone Bill,-103.43,Utilities
+2023-04-06,Electricity Bill,-365.86,Utilities
+2023-04-06,Salary Credit,2211.92,Income
+2023-04-07,Freelance Payment,2302.15,Income
+2023-04-07,Freelance Payment,2700.08,Income
+2023-04-08,Salary Credit,1127.12,Income
+2023-04-08,Groceries - Walmart,-366.16,Groceries
+2023-04-09,Netflix Subscription,-238.75,Subscription
+2023-04-09,Groceries - Walmart,-486.0,Groceries
+2023-04-10,Salary Credit,2443.46,Income
+2023-04-10,Gas Station,-249.43,Transportation
+2023-04-10,Dinner at Restaurant,-356.78,Food & Drinks
+2023-04-11,Amazon Shopping,-222.47,Shopping
+2023-04-11,Insurance Payment,-20.56,Insurance
+2023-04-12,Hotel Booking,-160.61,Travel
+2023-04-12,Uber Ride,-454.25,Travel
+2023-04-12,Freelance Payment,1820.77,Income
+2023-04-13,Uber Ride,-471.71,Travel
+2023-04-13,Freelance Payment,1579.5,Income
+2023-04-13,Starbucks Coffee,-314.06,Food & Drinks
+2023-04-14,Gym Membership,-230.98,Fitness
+2023-04-14,Spotify Subscription,-97.35,Subscription
+2023-04-15,Phone Bill,-165.55,Utilities
+2023-04-15,Freelance Payment,2813.66,Income
+2023-04-16,Medical Bill,-179.52,Medical
+2023-04-17,Freelance Payment,1329.31,Income
+2023-04-17,Dinner at Restaurant,-244.99,Food & Drinks
+2023-04-17,Salary Credit,1239.73,Income
+2023-04-18,Dinner at Restaurant,-204.9,Food & Drinks
+2023-04-18,Hotel Booking,-130.69,Travel
+2023-04-18,Spotify Subscription,-129.63,Subscription
+2023-04-19,Netflix Subscription,-153.93,Subscription
+2023-04-19,Hotel Booking,-498.88,Travel
+2023-04-20,Hotel Booking,-488.42,Travel
+2023-04-20,Groceries - Walmart,-175.81,Groceries
+2023-04-20,Salary Credit,1479.12,Income
+2023-04-21,Spotify Subscription,-226.65,Subscription
+2023-04-21,Gym Membership,-124.82,Fitness
+2023-04-22,Phone Bill,-187.98,Utilities
+2023-04-22,Hotel Booking,-365.47,Travel
+2023-04-22,Groceries - Walmart,-317.99,Groceries
+2023-04-23,Phone Bill,-409.13,Utilities
+2023-04-23,Movie Ticket,-418.47,Entertainment
+2023-04-24,Gym Membership,-349.43,Fitness
+2023-04-24,Netflix Subscription,-297.49,Subscription
+2023-04-24,Uber Ride,-13.21,Travel
+2023-04-25,Insurance Payment,-177.59,Insurance
+2023-04-25,Freelance Payment,1348.73,Income
+2023-04-25,Salary Credit,1795.14,Income
+2023-04-26,Car Repair,-419.67,Transportation
+2023-04-26,Phone Bill,-173.83,Utilities
+2023-04-26,Car Repair,-462.72,Transportation
+2023-04-27,Amazon Shopping,-132.68,Shopping
+2023-04-27,Movie Ticket,-409.52,Entertainment
+2023-04-28,Medical Bill,-267.18,Medical
+2023-04-29,Salary Credit,1186.21,Income
+2023-04-29,Spotify Subscription,-281.36,Subscription
+2023-04-30,Dinner at Restaurant,-143.04,Food & Drinks
+2023-04-30,Insurance Payment,-364.35,Insurance
+2023-04-30,Netflix Subscription,-428.88,Subscription
+2023-05-01,Salary Credit,2284.06,Income
+2023-05-01,Phone Bill,-468.14,Utilities
+2023-05-02,Electricity Bill,-305.18,Utilities
+2023-05-02,Netflix Subscription,-189.28,Subscription
+2023-05-03,Netflix Subscription,-486.96,Subscription
+2023-05-04,Gas Station,-276.62,Transportation
+2023-05-04,Netflix Subscription,-327.72,Subscription
+2023-05-05,Uber Ride,-357.53,Travel
+2023-05-06,Gas Station,-166.07,Transportation
+2023-05-07,Netflix Subscription,-330.52,Subscription
+2023-05-07,Salary Credit,2085.08,Income
+2023-05-07,Insurance Payment,-319.98,Insurance
+2023-05-08,Gas Station,-296.99,Transportation
+2023-05-08,Gym Membership,-199.58,Fitness
+2023-05-09,Electricity Bill,-317.41,Utilities
+2023-05-09,Starbucks Coffee,-178.29,Food & Drinks
+2023-05-10,Online Course Payment,-248.8,Education
+2023-05-11,Movie Ticket,-143.98,Entertainment
+2023-05-12,Hotel Booking,-26.58,Travel
+2023-05-12,Spotify Subscription,-470.53,Subscription
+2023-05-12,Gas Station,-457.86,Transportation
+2023-05-13,Dinner at Restaurant,-476.77,Food & Drinks
+2023-05-13,Hotel Booking,-278.62,Travel
+2023-05-13,Netflix Subscription,-490.26,Subscription
+2023-05-14,Salary Credit,1633.84,Income
+2023-05-14,Car Repair,-280.62,Transportation
+2023-05-14,Netflix Subscription,-287.18,Subscription
+2023-05-15,Online Course Payment,-495.08,Education
+2023-05-15,Starbucks Coffee,-130.81,Food & Drinks
+2023-05-16,Starbucks Coffee,-164.66,Food & Drinks
+2023-05-16,Electricity Bill,-350.02,Utilities
+2023-05-17,Movie Ticket,-278.65,Entertainment
+2023-05-17,Amazon Shopping,-405.63,Shopping
+2023-05-17,Netflix Subscription,-131.82,Subscription
+2023-05-18,Freelance Payment,2003.03,Income
+2023-05-19,Medical Bill,-326.73,Medical
+2023-05-20,Movie Ticket,-30.13,Entertainment
+2023-05-20,Insurance Payment,-172.31,Insurance
+2023-05-21,Starbucks Coffee,-222.04,Food & Drinks
+2023-05-21,Insurance Payment,-235.47,Insurance
+2023-05-22,Hotel Booking,-23.49,Travel
+2023-05-22,Gym Membership,-155.12,Fitness
+2023-05-22,Phone Bill,-67.89,Utilities
+2023-05-23,Electricity Bill,-386.15,Utilities
+2023-05-24,Freelance Payment,1170.69,Income
+2023-05-25,Medical Bill,-208.62,Medical
+2023-05-26,Electricity Bill,-364.42,Utilities
+2023-05-26,Flight Ticket,-484.92,Travel
+2023-05-26,Amazon Shopping,-164.86,Shopping
+2023-05-27,Insurance Payment,-222.29,Insurance
+2023-05-28,Groceries - Walmart,-96.25,Groceries
+2023-05-28,Dinner at Restaurant,-345.81,Food & Drinks
+2023-05-28,Salary Credit,1346.59,Income
+2023-05-29,Online Course Payment,-128.87,Education
+2023-05-30,Movie Ticket,-95.52,Entertainment
+2023-05-30,Flight Ticket,-143.57,Travel
+2023-05-31,Freelance Payment,2314.22,Income
+2023-06-01,Netflix Subscription,-127.63,Subscription
+2023-06-02,Groceries - Walmart,-64.48,Groceries
+2023-06-02,Gas Station,-50.44,Transportation
+2023-06-02,Online Course Payment,-25.16,Education
+2023-06-03,Medical Bill,-91.79,Medical
+2023-06-03,Movie Ticket,-53.43,Entertainment
+2023-06-04,Freelance Payment,1692.61,Income
+2023-06-05,Groceries - Walmart,-202.26,Groceries
+2023-06-05,Amazon Shopping,-474.83,Shopping
+2023-06-06,Medical Bill,-190.43,Medical
+2023-06-06,Insurance Payment,-254.05,Insurance
+2023-06-07,Groceries - Walmart,-343.56,Groceries
+2023-06-08,Starbucks Coffee,-18.12,Food & Drinks
+2023-06-08,Medical Bill,-289.86,Medical
+2023-06-08,Car Repair,-288.82,Transportation
+2023-06-09,Salary Credit,2622.41,Income
+2023-06-10,Groceries - Walmart,-314.84,Groceries
+2023-06-10,Salary Credit,2922.38,Income
+2023-06-10,Amazon Shopping,-107.31,Shopping
+2023-06-11,Flight Ticket,-111.22,Travel
+2023-06-12,Starbucks Coffee,-24.29,Food & Drinks
+2023-06-12,Car Repair,-343.09,Transportation
+2023-06-13,Electricity Bill,-195.77,Utilities
+2023-06-14,Starbucks Coffee,-134.04,Food & Drinks
+2023-06-14,Freelance Payment,1236.33,Income
+2023-06-15,Car Repair,-316.33,Transportation
+2023-06-16,Uber Ride,-211.88,Travel
+2023-06-17,Uber Ride,-92.83,Travel
+2023-06-18,Netflix Subscription,-495.3,Subscription
+2023-06-19,Hotel Booking,-389.32,Travel
+2023-06-19,Groceries - Walmart,-123.11,Groceries
+2023-06-20,Flight Ticket,-371.25,Travel
+2023-06-20,Netflix Subscription,-56.05,Subscription
+2023-06-20,Hotel Booking,-269.49,Travel
+2023-06-21,Flight Ticket,-448.28,Travel
+2023-06-22,Uber Ride,-10.36,Travel
+2023-06-23,Insurance Payment,-50.19,Insurance
+2023-06-24,Gas Station,-340.0,Transportation
+2023-06-24,Medical Bill,-288.85,Medical
+2023-06-24,Online Course Payment,-46.23,Education
+2023-06-25,Netflix Subscription,-303.21,Subscription
+2023-06-26,Uber Ride,-473.37,Travel
+2023-06-26,Movie Ticket,-395.86,Entertainment
+2023-06-26,Flight Ticket,-465.81,Travel
+2023-06-27,Freelance Payment,2991.86,Income
+2023-06-27,Groceries - Walmart,-369.83,Groceries
+2023-06-28,Phone Bill,-354.39,Utilities
+2023-06-29,Spotify Subscription,-345.57,Subscription
+2023-06-29,Spotify Subscription,-434.1,Subscription
+2023-06-29,Gym Membership,-46.63,Fitness
+2023-06-30,Electricity Bill,-41.02,Utilities
+2023-07-01,Starbucks Coffee,-45.27,Food & Drinks
+2023-07-01,Groceries - Walmart,-120.45,Groceries
+2023-07-02,Salary Credit,2760.72,Income
+2023-07-03,Freelance Payment,2972.0,Income
+2023-07-04,Insurance Payment,-389.69,Insurance
+2023-07-04,Freelance Payment,1848.44,Income
+2023-07-05,Insurance Payment,-60.04,Insurance
+2023-07-05,Netflix Subscription,-130.57,Subscription
+2023-07-06,Medical Bill,-63.81,Medical
+2023-07-06,Dinner at Restaurant,-373.38,Food & Drinks
+2023-07-07,Flight Ticket,-122.57,Travel
+2023-07-07,Hotel Booking,-46.03,Travel
+2023-07-07,Salary Credit,1447.19,Income
+2023-07-08,Spotify Subscription,-489.06,Subscription
+2023-07-08,Flight Ticket,-26.36,Travel
+2023-07-09,Movie Ticket,-266.21,Entertainment
+2023-07-10,Groceries - Walmart,-130.23,Groceries
+2023-07-10,Insurance Payment,-484.8,Insurance
+2023-07-10,Car Repair,-87.28,Transportation
+2023-07-11,Gas Station,-150.77,Transportation
+2023-07-12,Netflix Subscription,-451.07,Subscription
+2023-07-13,Phone Bill,-144.08,Utilities
+2023-07-14,Spotify Subscription,-57.84,Subscription
+2023-07-14,Electricity Bill,-88.99,Utilities
+2023-07-15,Electricity Bill,-179.91,Utilities
+2023-07-15,Car Repair,-136.64,Transportation
+2023-07-16,Dinner at Restaurant,-133.68,Food & Drinks
+2023-07-17,Hotel Booking,-143.48,Travel
+2023-07-17,Medical Bill,-303.38,Medical
+2023-07-17,Movie Ticket,-85.5,Entertainment
+2023-07-18,Netflix Subscription,-412.16,Subscription
+2023-07-18,Car Repair,-211.24,Transportation
+2023-07-19,Online Course Payment,-459.99,Education
+2023-07-20,Car Repair,-278.04,Transportation
+2023-07-20,Groceries - Walmart,-18.05,Groceries
+2023-07-21,Salary Credit,1960.74,Income
+2023-07-22,Hotel Booking,-191.49,Travel
+2023-07-22,Hotel Booking,-419.97,Travel
+2023-07-22,Starbucks Coffee,-23.23,Food & Drinks
+2023-07-23,Salary Credit,1027.34,Income
+2023-07-23,Gym Membership,-347.4,Fitness
+2023-07-23,Groceries - Walmart,-499.86,Groceries
+2023-07-24,Netflix Subscription,-279.94,Subscription
+2023-07-24,Groceries - Walmart,-364.43,Groceries
+2023-07-25,Amazon Shopping,-192.04,Shopping
+2023-07-25,Gas Station,-106.5,Transportation
+2023-07-26,Insurance Payment,-140.99,Insurance
+2023-07-27,Salary Credit,2343.4,Income
+2023-07-27,Starbucks Coffee,-182.29,Food & Drinks
+2023-07-28,Starbucks Coffee,-240.72,Food & Drinks
+2023-07-28,Netflix Subscription,-262.48,Subscription
+2023-07-28,Spotify Subscription,-409.11,Subscription
+2023-07-29,Hotel Booking,-71.34,Travel
+2023-07-30,Online Course Payment,-393.41,Education
+2023-07-30,Gas Station,-353.52,Transportation
+2023-07-30,Insurance Payment,-452.06,Insurance
+2023-07-31,Gym Membership,-306.0,Fitness
+2023-07-31,Car Repair,-199.16,Transportation
+2023-08-01,Insurance Payment,-452.56,Insurance
+2023-08-01,Medical Bill,-275.99,Medical
+2023-08-01,Salary Credit,2567.31,Income
+2023-08-02,Amazon Shopping,-431.87,Shopping
+2023-08-02,Groceries - Walmart,-399.25,Groceries
+2023-08-03,Hotel Booking,-248.6,Travel
+2023-08-03,Medical Bill,-232.27,Medical
+2023-08-04,Gym Membership,-248.85,Fitness
+2023-08-04,Flight Ticket,-108.52,Travel
+2023-08-05,Movie Ticket,-174.07,Entertainment
+2023-08-05,Online Course Payment,-68.8,Education
+2023-08-05,Movie Ticket,-80.19,Entertainment
+2023-08-06,Movie Ticket,-322.23,Entertainment
+2023-08-06,Electricity Bill,-349.77,Utilities
+2023-08-07,Netflix Subscription,-437.79,Subscription
+2023-08-08,Car Repair,-302.96,Transportation
+2023-08-08,Insurance Payment,-25.23,Insurance
+2023-08-08,Groceries - Walmart,-175.82,Groceries
+2023-08-09,Gym Membership,-64.71,Fitness
+2023-08-09,Dinner at Restaurant,-181.22,Food & Drinks
+2023-08-10,Starbucks Coffee,-68.73,Food & Drinks
+2023-08-10,Flight Ticket,-164.18,Travel
+2023-08-11,Online Course Payment,-315.81,Education
+2023-08-11,Online Course Payment,-258.27,Education
+2023-08-12,Movie Ticket,-35.23,Entertainment
+2023-08-12,Uber Ride,-404.07,Travel
+2023-08-12,Hotel Booking,-300.65,Travel
+2023-08-13,Online Course Payment,-188.38,Education
+2023-08-13,Gas Station,-311.04,Transportation
+2023-08-13,Gas Station,-233.95,Transportation
+2023-08-14,Gas Station,-78.13,Transportation
+2023-08-15,Freelance Payment,2374.33,Income
+2023-08-15,Gas Station,-376.06,Transportation
+2023-08-15,Flight Ticket,-434.27,Travel
+2023-08-16,Netflix Subscription,-201.6,Subscription
+2023-08-16,Groceries - Walmart,-95.23,Groceries
+2023-08-17,Hotel Booking,-109.67,Travel
+2023-08-17,Spotify Subscription,-120.44,Subscription
+2023-08-17,Flight Ticket,-298.83,Travel
+2023-08-18,Netflix Subscription,-326.17,Subscription
+2023-08-18,Car Repair,-48.03,Transportation
+2023-08-19,Starbucks Coffee,-281.08,Food & Drinks
+2023-08-19,Electricity Bill,-218.67,Utilities
+2023-08-19,Insurance Payment,-192.49,Insurance
+2023-08-20,Gym Membership,-450.33,Fitness
+2023-08-21,Flight Ticket,-168.52,Travel
+2023-08-21,Salary Credit,1015.07,Income
+2023-08-22,Gym Membership,-185.85,Fitness
+2023-08-23,Phone Bill,-48.5,Utilities
+2023-08-23,Dinner at Restaurant,-44.72,Food & Drinks
+2023-08-24,Electricity Bill,-350.0,Utilities
+2023-08-24,Gym Membership,-201.94,Fitness
+2023-08-24,Phone Bill,-433.43,Utilities
+2023-08-25,Hotel Booking,-247.92,Travel
+2023-08-25,Gym Membership,-335.98,Fitness
+2023-08-26,Starbucks Coffee,-280.6,Food & Drinks
+2023-08-27,Insurance Payment,-420.1,Insurance
+2023-08-27,Groceries - Walmart,-97.59,Groceries
+2023-08-28,Uber Ride,-215.59,Travel
+2023-08-28,Salary Credit,2472.49,Income
+2023-08-29,Salary Credit,2221.24,Income
+2023-08-29,Gym Membership,-292.71,Fitness
+2023-08-29,Phone Bill,-466.35,Utilities
+2023-08-30,Phone Bill,-298.97,Utilities
+2023-08-31,Car Repair,-229.86,Transportation
+2023-08-31,Groceries - Walmart,-36.37,Groceries
+2023-09-01,Flight Ticket,-343.86,Travel
+2023-09-01,Medical Bill,-131.05,Medical
+2023-09-02,Dinner at Restaurant,-381.31,Food & Drinks
+2023-09-03,Online Course Payment,-238.43,Education
+2023-09-03,Netflix Subscription,-177.69,Subscription
+2023-09-03,Hotel Booking,-426.11,Travel
+2023-09-04,Gas Station,-466.8,Transportation
+2023-09-04,Phone Bill,-469.48,Utilities
+2023-09-05,Netflix Subscription,-463.59,Subscription
+2023-09-05,Electricity Bill,-414.83,Utilities
+2023-09-05,Groceries - Walmart,-104.81,Groceries
+2023-09-06,Netflix Subscription,-86.31,Subscription
+2023-09-06,Groceries - Walmart,-121.67,Groceries
+2023-09-07,Uber Ride,-161.52,Travel
+2023-09-07,Amazon Shopping,-199.26,Shopping
+2023-09-08,Electricity Bill,-191.59,Utilities
+2023-09-08,Insurance Payment,-313.93,Insurance
+2023-09-08,Salary Credit,2495.22,Income
+2023-09-09,Salary Credit,1464.43,Income
+2023-09-09,Salary Credit,1782.96,Income
+2023-09-09,Starbucks Coffee,-274.06,Food & Drinks
+2023-09-10,Freelance Payment,1233.8,Income
+2023-09-10,Gym Membership,-169.74,Fitness
+2023-09-10,Insurance Payment,-170.78,Insurance
+2023-09-11,Online Course Payment,-311.94,Education
+2023-09-11,Medical Bill,-372.02,Medical
+2023-09-11,Uber Ride,-498.86,Travel
+2023-09-12,Salary Credit,2413.96,Income
+2023-09-13,Salary Credit,1067.06,Income
+2023-09-13,Starbucks Coffee,-382.42,Food & Drinks
+2023-09-13,Amazon Shopping,-174.33,Shopping
+2023-09-14,Flight Ticket,-59.76,Travel
+2023-09-14,Uber Ride,-231.22,Travel
+2023-09-15,Electricity Bill,-79.21,Utilities
+2023-09-15,Online Course Payment,-207.43,Education
+2023-09-15,Flight Ticket,-361.42,Travel
+2023-09-16,Insurance Payment,-348.5,Insurance
+2023-09-16,Uber Ride,-359.51,Travel
+2023-09-16,Groceries - Walmart,-414.27,Groceries
+2023-09-17,Amazon Shopping,-174.55,Shopping
+2023-09-17,Gym Membership,-203.42,Fitness
+2023-09-18,Gas Station,-309.4,Transportation
+2023-09-18,Flight Ticket,-73.86,Travel
+2023-09-18,Car Repair,-307.67,Transportation
+2023-09-19,Electricity Bill,-436.7,Utilities
+2023-09-19,Spotify Subscription,-55.6,Subscription
+2023-09-19,Movie Ticket,-349.84,Entertainment
+2023-09-20,Electricity Bill,-327.43,Utilities
+2023-09-21,Dinner at Restaurant,-214.94,Food & Drinks
+2023-09-22,Gas Station,-467.51,Transportation
+2023-09-23,Phone Bill,-228.17,Utilities
+2023-09-23,Gas Station,-121.77,Transportation
+2023-09-24,Gas Station,-97.23,Transportation
+2023-09-24,Salary Credit,2739.79,Income
+2023-09-25,Insurance Payment,-297.68,Insurance
+2023-09-25,Online Course Payment,-32.11,Education
+2023-09-25,Dinner at Restaurant,-106.76,Food & Drinks
+2023-09-26,Dinner at Restaurant,-61.56,Food & Drinks
+2023-09-27,Phone Bill,-461.87,Utilities
+2023-09-28,Car Repair,-243.01,Transportation
+2023-09-28,Hotel Booking,-295.6,Travel
+2023-09-28,Spotify Subscription,-456.81,Subscription
+2023-09-29,Freelance Payment,1331.03,Income
+2023-09-29,Salary Credit,1724.79,Income
+2023-09-30,Phone Bill,-317.97,Utilities
+2023-09-30,Car Repair,-333.45,Transportation
+2023-09-30,Freelance Payment,2951.08,Income
+2023-10-01,Hotel Booking,-280.87,Travel
+2023-10-02,Electricity Bill,-253.59,Utilities
+2023-10-02,Salary Credit,1619.87,Income
+2023-10-03,Insurance Payment,-108.9,Insurance
+2023-10-03,Insurance Payment,-177.95,Insurance
+2023-10-04,Hotel Booking,-23.09,Travel
+2023-10-04,Movie Ticket,-284.6,Entertainment
+2023-10-05,Salary Credit,2551.06,Income
+2023-10-05,Online Course Payment,-266.19,Education
+2023-10-06,Hotel Booking,-203.38,Travel
+2023-10-06,Gym Membership,-383.85,Fitness
+2023-10-07,Electricity Bill,-431.58,Utilities
+2023-10-08,Netflix Subscription,-189.79,Subscription
+2023-10-08,Amazon Shopping,-449.23,Shopping
+2023-10-08,Starbucks Coffee,-207.32,Food & Drinks
+2023-10-09,Car Repair,-434.16,Transportation
+2023-10-09,Electricity Bill,-18.41,Utilities
+2023-10-09,Netflix Subscription,-119.38,Subscription
+2023-10-10,Electricity Bill,-56.53,Utilities
+2023-10-10,Online Course Payment,-286.87,Education
+2023-10-10,Insurance Payment,-328.11,Insurance
+2023-10-11,Electricity Bill,-54.22,Utilities
+2023-10-11,Gas Station,-303.58,Transportation
+2023-10-11,Gas Station,-415.96,Transportation
+2023-10-12,Gas Station,-150.11,Transportation
+2023-10-13,Freelance Payment,2266.48,Income
+2023-10-13,Salary Credit,1415.77,Income
+2023-10-14,Movie Ticket,-94.81,Entertainment
+2023-10-14,Uber Ride,-323.25,Travel
+2023-10-14,Car Repair,-446.87,Transportation
+2023-10-15,Groceries - Walmart,-174.2,Groceries
+2023-10-15,Amazon Shopping,-413.43,Shopping
+2023-10-15,Netflix Subscription,-297.2,Subscription
+2023-10-16,Groceries - Walmart,-207.66,Groceries
+2023-10-17,Dinner at Restaurant,-220.88,Food & Drinks
+2023-10-17,Spotify Subscription,-113.66,Subscription
+2023-10-18,Spotify Subscription,-74.36,Subscription
+2023-10-18,Amazon Shopping,-285.06,Shopping
+2023-10-19,Gas Station,-238.18,Transportation
+2023-10-19,Hotel Booking,-244.97,Travel
+2023-10-19,Hotel Booking,-138.0,Travel
+2023-10-20,Flight Ticket,-204.26,Travel
+2023-10-20,Dinner at Restaurant,-73.98,Food & Drinks
+2023-10-21,Gas Station,-492.28,Transportation
+2023-10-21,Flight Ticket,-347.15,Travel
+2023-10-21,Groceries - Walmart,-14.1,Groceries
+2023-10-22,Amazon Shopping,-290.38,Shopping
+2023-10-22,Gym Membership,-38.25,Fitness
+2023-10-23,Gym Membership,-415.72,Fitness
+2023-10-24,Amazon Shopping,-74.31,Shopping
+2023-10-24,Gym Membership,-367.43,Fitness
+2023-10-24,Starbucks Coffee,-302.26,Food & Drinks
+2023-10-25,Freelance Payment,2146.59,Income
+2023-10-26,Gas Station,-28.25,Transportation
+2023-10-27,Phone Bill,-96.26,Utilities
+2023-10-27,Uber Ride,-386.64,Travel
+2023-10-28,Phone Bill,-147.9,Utilities
+2023-10-29,Freelance Payment,2220.81,Income
+2023-10-30,Starbucks Coffee,-201.34,Food & Drinks
+2023-10-30,Groceries - Walmart,-244.46,Groceries
+2023-10-31,Uber Ride,-272.22,Travel
+2023-10-31,Insurance Payment,-299.56,Insurance
+2023-11-01,Hotel Booking,-250.7,Travel
+2023-11-01,Flight Ticket,-81.56,Travel
+2023-11-01,Dinner at Restaurant,-386.6,Food & Drinks
+2023-11-02,Dinner at Restaurant,-42.19,Food & Drinks
+2023-11-03,Salary Credit,1990.98,Income
+2023-11-04,Electricity Bill,-220.24,Utilities
+2023-11-04,Freelance Payment,1151.87,Income
+2023-11-04,Car Repair,-400.71,Transportation
+2023-11-05,Gym Membership,-297.16,Fitness
+2023-11-05,Insurance Payment,-160.73,Insurance
+2023-11-05,Hotel Booking,-72.73,Travel
+2023-11-06,Hotel Booking,-96.64,Travel
+2023-11-06,Movie Ticket,-437.11,Entertainment
+2023-11-07,Hotel Booking,-331.1,Travel
+2023-11-07,Movie Ticket,-425.35,Entertainment
+2023-11-07,Car Repair,-247.27,Transportation
+2023-11-08,Dinner at Restaurant,-472.31,Food & Drinks
+2023-11-08,Online Course Payment,-26.86,Education
+2023-11-08,Movie Ticket,-463.0,Entertainment
+2023-11-09,Freelance Payment,1067.89,Income
+2023-11-09,Freelance Payment,1594.7,Income
+2023-11-09,Movie Ticket,-62.06,Entertainment
+2023-11-10,Car Repair,-373.81,Transportation
+2023-11-10,Medical Bill,-423.05,Medical
+2023-11-10,Car Repair,-263.61,Transportation
+2023-11-11,Hotel Booking,-326.83,Travel
+2023-11-11,Netflix Subscription,-282.54,Subscription
+2023-11-11,Flight Ticket,-43.09,Travel
+2023-11-12,Phone Bill,-173.24,Utilities
+2023-11-13,Spotify Subscription,-288.35,Subscription
+2023-11-13,Hotel Booking,-271.51,Travel
+2023-11-13,Flight Ticket,-314.82,Travel
+2023-11-14,Amazon Shopping,-438.95,Shopping
+2023-11-15,Netflix Subscription,-435.7,Subscription
+2023-11-15,Flight Ticket,-266.82,Travel
+2023-11-16,Freelance Payment,1018.97,Income
+2023-11-16,Hotel Booking,-203.96,Travel
+2023-11-16,Spotify Subscription,-315.62,Subscription
+2023-11-17,Amazon Shopping,-50.39,Shopping
+2023-11-17,Freelance Payment,2045.04,Income
+2023-11-17,Salary Credit,1477.55,Income
+2023-11-18,Flight Ticket,-180.54,Travel
+2023-11-18,Car Repair,-151.67,Transportation
+2023-11-18,Groceries - Walmart,-25.84,Groceries
+2023-11-19,Gas Station,-27.32,Transportation
+2023-11-20,Hotel Booking,-198.86,Travel
+2023-11-20,Uber Ride,-113.04,Travel
+2023-11-20,Groceries - Walmart,-394.24,Groceries
+2023-11-21,Gym Membership,-491.25,Fitness
+2023-11-21,Gas Station,-302.4,Transportation
+2023-11-21,Flight Ticket,-494.65,Travel
+2023-11-22,Medical Bill,-37.17,Medical
+2023-11-22,Electricity Bill,-471.65,Utilities
+2023-11-22,Insurance Payment,-258.78,Insurance
+2023-11-23,Phone Bill,-92.38,Utilities
+2023-11-23,Dinner at Restaurant,-97.29,Food & Drinks
+2023-11-24,Gym Membership,-401.38,Fitness
+2023-11-24,Online Course Payment,-112.08,Education
+2023-11-24,Dinner at Restaurant,-464.24,Food & Drinks
+2023-11-25,Hotel Booking,-91.08,Travel
+2023-11-25,Amazon Shopping,-260.05,Shopping
+2023-11-26,Hotel Booking,-81.18,Travel
+2023-11-26,Netflix Subscription,-116.1,Subscription
+2023-11-27,Online Course Payment,-22.26,Education
+2023-11-28,Groceries - Walmart,-50.29,Groceries
+2023-11-28,Dinner at Restaurant,-198.63,Food & Drinks
+2023-11-29,Dinner at Restaurant,-26.97,Food & Drinks
+2023-11-29,Starbucks Coffee,-431.75,Food & Drinks
+2023-11-29,Dinner at Restaurant,-167.88,Food & Drinks
+2023-11-30,Groceries - Walmart,-368.93,Groceries
+2023-12-01,Online Course Payment,-7.52,Education
+2023-12-01,Groceries - Walmart,-29.15,Groceries
+2023-12-02,Gym Membership,-481.25,Fitness
+2023-12-02,Movie Ticket,-343.21,Entertainment
+2023-12-03,Flight Ticket,-426.35,Travel
+2023-12-04,Insurance Payment,-413.22,Insurance
+2023-12-05,Electricity Bill,-285.04,Utilities
+2023-12-05,Flight Ticket,-368.29,Travel
+2023-12-06,Movie Ticket,-330.93,Entertainment
+2023-12-06,Salary Credit,1314.68,Income
+2023-12-06,Movie Ticket,-355.64,Entertainment
+2023-12-07,Flight Ticket,-350.25,Travel
+2023-12-07,Amazon Shopping,-57.39,Shopping
+2023-12-07,Gym Membership,-98.66,Fitness
+2023-12-08,Phone Bill,-480.85,Utilities
+2023-12-09,Insurance Payment,-440.14,Insurance
+2023-12-10,Amazon Shopping,-410.87,Shopping
+2023-12-10,Freelance Payment,1321.52,Income
+2023-12-11,Gas Station,-379.53,Transportation
+2023-12-11,Spotify Subscription,-8.16,Subscription
+2023-12-12,Gas Station,-166.58,Transportation
+2023-12-13,Hotel Booking,-62.34,Travel
+2023-12-14,Flight Ticket,-391.02,Travel
+2023-12-14,Gym Membership,-145.25,Fitness
+2023-12-15,Amazon Shopping,-218.96,Shopping
+2023-12-15,Starbucks Coffee,-174.23,Food & Drinks
+2023-12-15,Online Course Payment,-466.35,Education
+2023-12-16,Uber Ride,-91.01,Travel
+2023-12-17,Uber Ride,-153.98,Travel
+2023-12-17,Hotel Booking,-386.64,Travel
+2023-12-18,Amazon Shopping,-239.42,Shopping
+2023-12-19,Car Repair,-436.41,Transportation
+2023-12-19,Online Course Payment,-484.59,Education
+2023-12-20,Netflix Subscription,-299.23,Subscription
+2023-12-20,Spotify Subscription,-17.17,Subscription
+2023-12-20,Phone Bill,-411.65,Utilities
+2023-12-21,Online Course Payment,-410.3,Education
+2023-12-21,Phone Bill,-343.23,Utilities
+2023-12-21,Starbucks Coffee,-140.45,Food & Drinks
+2023-12-22,Uber Ride,-215.96,Travel
+2023-12-23,Dinner at Restaurant,-85.99,Food & Drinks
+2023-12-24,Phone Bill,-114.28,Utilities
+2023-12-24,Starbucks Coffee,-387.55,Food & Drinks
+2023-12-24,Medical Bill,-328.98,Medical
+2023-12-25,Netflix Subscription,-475.68,Subscription
+2023-12-25,Spotify Subscription,-20.49,Subscription
+2023-12-25,Online Course Payment,-212.77,Education
+2023-12-26,Medical Bill,-201.81,Medical
+2023-12-26,Groceries - Walmart,-492.07,Groceries
+2023-12-26,Salary Credit,1641.49,Income
+2023-12-27,Online Course Payment,-374.19,Education
+2023-12-27,Netflix Subscription,-20.41,Subscription
+2023-12-28,Spotify Subscription,-283.56,Subscription
+2023-12-29,Electricity Bill,-83.83,Utilities
+2023-12-29,Hotel Booking,-50.13,Travel
+2023-12-29,Electricity Bill,-386.61,Utilities
+2023-12-30,Car Repair,-381.71,Transportation
+2023-12-30,Netflix Subscription,-399.41,Subscription
+2023-12-31,Netflix Subscription,-96.8,Subscription
+2024-01-01,Gas Station,-301.17,Transportation
+2024-01-01,Spotify Subscription,-127.53,Subscription
+2024-01-01,Dinner at Restaurant,-104.26,Food & Drinks
+2024-01-02,Starbucks Coffee,-399.79,Food & Drinks
+2024-01-03,Flight Ticket,-79.04,Travel
+2024-01-03,Car Repair,-341.83,Transportation
+2024-01-03,Car Repair,-242.57,Transportation
+2024-01-04,Gym Membership,-149.37,Fitness
+2024-01-04,Flight Ticket,-379.74,Travel
+2024-01-04,Gym Membership,-454.37,Fitness
+2024-01-05,Insurance Payment,-56.94,Insurance
+2024-01-05,Hotel Booking,-55.88,Travel
+2024-01-05,Gas Station,-75.54,Transportation
+2024-01-06,Medical Bill,-176.28,Medical
+2024-01-06,Electricity Bill,-9.84,Utilities
+2024-01-07,Starbucks Coffee,-269.45,Food & Drinks
+2024-01-08,Flight Ticket,-45.84,Travel
+2024-01-09,Medical Bill,-182.11,Medical
+2024-01-10,Starbucks Coffee,-488.85,Food & Drinks
+2024-01-10,Gas Station,-348.13,Transportation
+2024-01-10,Online Course Payment,-104.07,Education
+2024-01-11,Spotify Subscription,-56.76,Subscription
+2024-01-11,Phone Bill,-66.49,Utilities
+2024-01-11,Gym Membership,-299.41,Fitness
+2024-01-12,Freelance Payment,2225.89,Income
+2024-01-13,Car Repair,-467.92,Transportation
+2024-01-14,Medical Bill,-173.03,Medical
+2024-01-14,Freelance Payment,2321.64,Income
+2024-01-15,Netflix Subscription,-25.17,Subscription
+2024-01-15,Amazon Shopping,-222.11,Shopping
+2024-01-16,Spotify Subscription,-127.32,Subscription
+2024-01-16,Flight Ticket,-242.24,Travel
+2024-01-17,Insurance Payment,-488.05,Insurance
+2024-01-17,Uber Ride,-373.42,Travel
+2024-01-17,Insurance Payment,-85.03,Insurance
+2024-01-18,Car Repair,-328.37,Transportation
+2024-01-18,Groceries - Walmart,-498.19,Groceries
+2024-01-19,Netflix Subscription,-45.36,Subscription
+2024-01-20,Netflix Subscription,-114.18,Subscription
+2024-01-20,Online Course Payment,-132.55,Education
+2024-01-20,Spotify Subscription,-91.23,Subscription
+2024-01-21,Medical Bill,-316.24,Medical
+2024-01-22,Medical Bill,-254.9,Medical
+2024-01-22,Car Repair,-434.18,Transportation
+2024-01-23,Uber Ride,-19.55,Travel
+2024-01-24,Uber Ride,-437.34,Travel
+2024-01-24,Starbucks Coffee,-397.51,Food & Drinks
+2024-01-25,Amazon Shopping,-496.11,Shopping
+2024-01-25,Spotify Subscription,-195.0,Subscription
+2024-01-25,Car Repair,-317.62,Transportation
+2024-01-26,Salary Credit,1263.14,Income
+2024-01-26,Electricity Bill,-205.63,Utilities
+2024-01-26,Amazon Shopping,-122.58,Shopping
+2024-01-27,Starbucks Coffee,-94.58,Food & Drinks
+2024-01-27,Groceries - Walmart,-39.22,Groceries
+2024-01-28,Online Course Payment,-298.49,Education
+2024-01-29,Medical Bill,-298.51,Medical
+2024-01-29,Gym Membership,-327.8,Fitness
+2024-01-29,Starbucks Coffee,-429.7,Food & Drinks
+2024-01-30,Salary Credit,2546.95,Income
+2024-01-31,Online Course Payment,-121.16,Education
+2024-02-01,Netflix Subscription,-223.8,Subscription
+2024-02-01,Movie Ticket,-262.29,Entertainment
+2024-02-02,Spotify Subscription,-415.3,Subscription
+2024-02-02,Salary Credit,1898.87,Income
+2024-02-03,Spotify Subscription,-354.85,Subscription
+2024-02-03,Medical Bill,-192.78,Medical
+2024-02-03,Phone Bill,-369.52,Utilities
+2024-02-04,Spotify Subscription,-239.94,Subscription
+2024-02-05,Spotify Subscription,-225.95,Subscription
+2024-02-06,Online Course Payment,-281.28,Education
+2024-02-06,Medical Bill,-138.53,Medical
+2024-02-06,Starbucks Coffee,-65.87,Food & Drinks
+2024-02-07,Medical Bill,-30.59,Medical
+2024-02-08,Netflix Subscription,-228.84,Subscription
+2024-02-09,Groceries - Walmart,-56.14,Groceries
+2024-02-10,Gas Station,-345.66,Transportation
+2024-02-10,Medical Bill,-493.38,Medical
+2024-02-10,Phone Bill,-13.6,Utilities
+2024-02-11,Car Repair,-486.68,Transportation
+2024-02-12,Online Course Payment,-263.26,Education
+2024-02-12,Spotify Subscription,-268.46,Subscription
+2024-02-12,Flight Ticket,-76.05,Travel
+2024-02-13,Amazon Shopping,-367.78,Shopping
+2024-02-13,Electricity Bill,-485.11,Utilities
+2024-02-14,Electricity Bill,-82.3,Utilities
+2024-02-15,Groceries - Walmart,-481.86,Groceries
+2024-02-15,Online Course Payment,-347.85,Education
+2024-02-16,Phone Bill,-343.21,Utilities
+2024-02-16,Car Repair,-125.85,Transportation
+2024-02-16,Electricity Bill,-432.98,Utilities
+2024-02-17,Spotify Subscription,-60.99,Subscription
+2024-02-18,Gas Station,-459.75,Transportation
+2024-02-19,Insurance Payment,-470.73,Insurance
+2024-02-20,Movie Ticket,-327.36,Entertainment
+2024-02-20,Starbucks Coffee,-499.71,Food & Drinks
+2024-02-21,Dinner at Restaurant,-433.89,Food & Drinks
+2024-02-21,Movie Ticket,-377.45,Entertainment
+2024-02-22,Flight Ticket,-147.9,Travel
+2024-02-23,Uber Ride,-327.0,Travel
+2024-02-23,Gym Membership,-166.88,Fitness
+2024-02-23,Gym Membership,-221.9,Fitness
+2024-02-24,Car Repair,-439.56,Transportation
+2024-02-24,Insurance Payment,-435.11,Insurance
+2024-02-25,Freelance Payment,1011.52,Income
+2024-02-26,Salary Credit,1732.92,Income
+2024-02-26,Freelance Payment,2126.88,Income
+2024-02-26,Insurance Payment,-197.34,Insurance
+2024-02-27,Salary Credit,1475.09,Income
+2024-02-28,Netflix Subscription,-117.5,Subscription
+2024-02-29,Phone Bill,-303.71,Utilities
+2024-02-29,Gas Station,-323.08,Transportation
+2024-03-01,Gas Station,-252.72,Transportation
+2024-03-01,Electricity Bill,-261.95,Utilities
+2024-03-02,Spotify Subscription,-78.75,Subscription
+2024-03-02,Movie Ticket,-292.19,Entertainment
+2024-03-03,Phone Bill,-383.62,Utilities
+2024-03-03,Gym Membership,-374.7,Fitness
+2024-03-03,Spotify Subscription,-477.98,Subscription
+2024-03-04,Phone Bill,-8.74,Utilities
+2024-03-05,Online Course Payment,-125.52,Education
+2024-03-05,Phone Bill,-193.14,Utilities
+2024-03-05,Uber Ride,-467.55,Travel
+2024-03-06,Insurance Payment,-55.2,Insurance
+2024-03-06,Uber Ride,-132.1,Travel
+2024-03-07,Online Course Payment,-268.47,Education
+2024-03-07,Electricity Bill,-159.1,Utilities
+2024-03-08,Car Repair,-202.95,Transportation
+2024-03-08,Flight Ticket,-209.71,Travel
+2024-03-09,Phone Bill,-66.0,Utilities
+2024-03-10,Freelance Payment,2050.33,Income
+2024-03-10,Freelance Payment,1590.56,Income
+2024-03-11,Amazon Shopping,-96.69,Shopping
+2024-03-12,Freelance Payment,2631.5,Income
+2024-03-12,Spotify Subscription,-26.49,Subscription
+2024-03-13,Online Course Payment,-475.94,Education
+2024-03-13,Dinner at Restaurant,-397.9,Food & Drinks
+2024-03-14,Amazon Shopping,-91.51,Shopping
+2024-03-14,Amazon Shopping,-450.51,Shopping
+2024-03-14,Movie Ticket,-280.54,Entertainment
+2024-03-15,Groceries - Walmart,-154.52,Groceries
+2024-03-15,Insurance Payment,-426.33,Insurance
+2024-03-15,Freelance Payment,2335.1,Income
+2024-03-16,Insurance Payment,-313.81,Insurance
+2024-03-16,Salary Credit,1847.89,Income
+2024-03-17,Online Course Payment,-121.44,Education
+2024-03-18,Salary Credit,1433.48,Income
+2024-03-18,Hotel Booking,-93.33,Travel
+2024-03-19,Online Course Payment,-118.97,Education
+2024-03-20,Phone Bill,-119.81,Utilities
+2024-03-20,Gas Station,-317.85,Transportation
+2024-03-20,Starbucks Coffee,-140.9,Food & Drinks
